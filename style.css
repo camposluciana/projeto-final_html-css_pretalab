@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.fonte {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        color: #12296a;
+}
+.cabecalho {
+    background-color: #173aaa;
+    height: 103px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.lista-menu {
+    display: flex;
+    gap: 40px;
+    margin-right: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+.lista-menu li > a {
+    color: #ffff;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.perfil {
+    background-color: #EDEAEA;
+    height: 679PX;
+    text-align: center;
+
+}
+
+h1 {
+    color: #173aaa;
+    font-size: 36px;
+}
+
+.profissao {
+    color: #111c3d;
+    font-size: 25px;
+}
+
+.descricao {
+    width: 594px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    font-size: 14px;
+    margin-top: 26px;
+    line-height: 22.4px;
+    font-weight: 400;
+    margin-top: 20px;
+    color: #111c3d;
+}
+
+.imagem {
+    margin-top: 40px;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 26px;
+}
+
+.artigo-formacao {
+    margin-bottom: 50px;
+
+}
+
+.container {
+    margin-top: 76px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 750px;
+}
+
+.titulo-secao {
+    color: #173aaa;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.titulo-formacao {
+    padding-left: 32px;
+}
+
+.link-item {
+    color: #111c3d;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 32px;
+}
+
+.descricao-item {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    padding-left: 32px;;
+    color: #111c3d;
+}
+
+.titulo-ensino {
+    padding-left: 32px;
+}
+
+.link-ensino {
+    color: blue;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 32px;
+}
+
+.descricao-ensino {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    padding-left: 32px;
+    color: #111c3d;
+}
+
+.titulo-projetos {
+    color: #173aaa;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.titulo-ia {
+    padding-left: 32px;
+}
+
+.link-ia {
+    color: blue;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 32px; 
+}
+
+.descricao-ia {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    padding-left: 32px; 
+    color: #111c3d;
+}
+
+.titulo-git {
+    padding-left: 32px;
+}
+
+.link-git {
+    color: blue;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 32px;
+}
+
+.descricao-git {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    padding-left: 32px;
+}
+
+.titulo-portfolio {
+    padding-left: 32px;
+}
+
+.link-portfolio {
+    color: blue;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 32px;
+}
+
+.descricao-portfolio {
+    font-size: 14px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    padding-left: 32px;
+    color: #111c3d;
+}
+
+.links-redes {
+    background-color: #173aaa;
+    height: 103px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:hsl(0, 83%, 2%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
